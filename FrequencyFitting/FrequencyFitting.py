@@ -60,5 +60,4 @@ plt.ylabel('dAG value')
 plt.legend(loc='upper left')
 plt.savefig("dAG.png")
 plt.close()
-
 print("Ocarina frequency fitting ends!")
